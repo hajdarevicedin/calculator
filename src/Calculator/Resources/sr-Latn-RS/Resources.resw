@@ -434,7 +434,7 @@
     <comment>This is the automation name and label for the memory button when the memory flyout is open.</comment>
   </data>
   <data name="AlwaysOnTop_Enter" xml:space="preserve">
-    <value>Zadrži na vrhu</value>
+    <value>Uvek na vrhu</value>
     <comment>This is the tool tip automation name for the always-on-top button when out of always-on-top mode.</comment>
   </data>
   <data name="AlwaysOnTop_Exit" xml:space="preserve">
@@ -2430,10 +2430,10 @@
     <comment>A measurement unit for data. (Please choose the most appropriate plural form to fit any number between 0 and 999,999,999,999,999)</comment>
   </data>
   <data name="DateCalculationModeText" xml:space="preserve">
-    <value>Izračunavanje datuma</value>
+    <value>Računanje datuma</value>
   </data>
   <data name="DateCalculationOption.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve">
-    <value>Režim izračunavanja</value>
+    <value>Režim računanja</value>
     <comment>Automation label for the Date Calculation Mode combobox. Users will hear "Calculation mode combobox".</comment>
   </data>
   <data name="AddOption.Content" xml:space="preserve">
